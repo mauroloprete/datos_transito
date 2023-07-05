@@ -1,0 +1,5 @@
+DB_USER = scraping_iesta
+DB_PASS = scraping_iesta
+DB_PORT = 5439
+DB_HOST = 164.90.254.224
+DB_NAME = datos_transito
